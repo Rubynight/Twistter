@@ -1,6 +1,7 @@
 # Twistter - CS30700 Fall 2019 Project
 
 This project is for CS30700 Fall 2019 class project.
+This is a copy version of the orginal version. Last updated in 9/10/2020
 
 ## Description
 
